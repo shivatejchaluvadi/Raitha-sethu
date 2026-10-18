@@ -1,0 +1,1 @@
+[Your Computer] ──(Upload)──> [GitHub] ──(Deploy)──> [Vercel] ──(Build APK)──> [PWABuilder] ──> [Android Phone]
